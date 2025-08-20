@@ -112,6 +112,4 @@ type Params = {
     "locale"?: string;
     "*": string;
   };
-  "/graphiql": {};
-  "/subrequest-profiler": {};
 };
